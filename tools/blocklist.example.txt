@@ -1,0 +1,4 @@
+# Copy to blocklist.txt and add one regex per line (case-insensitive). Terms that must never reach a shipped file:
+# your employer, clients, your real name, private handles, internal project names. Lines starting with # are ignored.
+\bmy-employer\b
+\bmy-real-name\b
